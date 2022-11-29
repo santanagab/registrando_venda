@@ -47,11 +47,11 @@ public class Produto {
         this.promocao = promocao;
     }
 
-    public double getValorCusto() {
+    public float getValorCusto() {
         return valorCusto;
     }
 
-    public void setValorCusto(double valorCusto) {
+    public void setValorCusto(float valorCusto) {
         this.valorCusto = valorCusto;
     }
 }
